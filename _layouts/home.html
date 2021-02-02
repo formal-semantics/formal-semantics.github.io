@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+	<p style="text-align: justify;">
+	Welcome to the reading group 'New Trends in Formal Semantics'!
+	<p style="text-align: justify;">
+	
+	<p style="text-align: justify;">
+	The purpose of the reading group is to read and discuss recent papers in the field of formal semantics and pragmatics. 
+	The focus of the reading group will be on linguistic phenomena explained by formal theories of semantics and pragmatics. 
+	However, papers discussing novel data, experimental results and cognitive aspects of language might be taken into consideration, if relevant.  
+	</p>
+
+	<p style="text-align: justify;">
+	At the beginning of each session, a member of the group, previously determined, 
+	briefly summarizes the chosen paper and sets up some guiding questions for the discussion. 
+	</p>
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Upcoming Meetings" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+	  {% if post.categories contains "meetings"%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%a, %b %d, %H:%M" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+	  {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>
