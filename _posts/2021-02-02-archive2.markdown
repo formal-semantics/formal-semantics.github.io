@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Old paper"
+date:   2021-02-02 10:00:00 +0100
+categories: past
+---
+We read ... by ... 
+
+The paper deals with ... 
+
+(Add zoom link and pdf) 
+
+Archive version second
