@@ -19,6 +19,7 @@ title: New Trends in Formal Semantics
 # Build settings
 markdown: kramdown
 theme: minima
+timezone: Europe/Amsterdam
 plugins:
   - jekyll-feed
 
