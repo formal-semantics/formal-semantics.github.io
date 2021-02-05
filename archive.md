@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Past Meetings
+title: Previous Meetings
 permalink: /archive/
 ---
