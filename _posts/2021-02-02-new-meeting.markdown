@@ -10,7 +10,7 @@ We read _Free choice and homogeneity_  by <a href="https://simondgoldstein.com/"
 
 <b> ZOOM LINK: </b>
 
-<b> PDF:</b>  <a href="{{ site.url }}/download/goldstein.pdf">{{ site.url }}/download/goldstein.pdf</a>
+<b> PDF:</b>  <a href="{{ site.url }}/download/goldstein.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/goldstein.pdf</a>
 
 <b> ABSTRACT: </b>
 
