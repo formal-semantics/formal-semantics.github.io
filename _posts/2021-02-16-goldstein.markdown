@@ -12,7 +12,7 @@ We read _Free choice and homogeneity_  by <a href="https://simondgoldstein.com/"
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/goldstein.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/goldstein.pdf</a>
 
-<b> DISCUSSION NOTES:</b>  <a href="{{ site.url }}/download/goldstein.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/notes_goldstein2019.pdf</a>
+<b> DISCUSSION NOTES:</b>  <a href="{{ site.url }}/download/notes_goldstein2019.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/notes_goldstein2019.pdf</a>
 
 
 <b> ABSTRACT: </b>
