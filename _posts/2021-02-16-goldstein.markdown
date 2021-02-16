@@ -2,7 +2,7 @@
 layout: post
 title:  Goldstein 2019, "Free choice and homogeneity."
 date:   2021-02-16 16:00:00 +0100
-categories: meetings
+categories: past
 ---
 We read _Free choice and homogeneity_  by <a href="https://simondgoldstein.com/" target="_blank" rel="noopener noreferrer">Simon Goldstein</a>. Below you can find the original abstract from the paper. 
 
@@ -11,6 +11,9 @@ We read _Free choice and homogeneity_  by <a href="https://simondgoldstein.com/"
 <b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/81295144575"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/81295144575 </a>
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/goldstein.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/goldstein.pdf</a>
+
+<b> DISCUSSION NOTES:</b>  <a href="{{ site.url }}/download/goldstein.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/notes_goldstein2019.pdf</a>
+
 
 <b> ABSTRACT: </b>
 
