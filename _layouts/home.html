@@ -20,6 +20,7 @@ layout: default
 	
 	
 	<p style="text-align: justify;">
+	We meet every two Mondays from 3.00 until 4.30 pm. 
 	If you want to suggest a particular paper or work that might be worth reading, just send an email to the organizer (m.degano@uva.nl).
 	</p>
 	
@@ -35,7 +36,7 @@ layout: default
       {%- for post in site.posts -%}
 	  {% if post.categories contains "meetings"%}
       <li>
-	    {%- assign date_format = site.minima.date_format | default: "%a, %b %d, %H:%M" -%}
+	    {%- assign date_format = site.minima.date_format | default: "%A %-d %B %Y, %H:%M - 16:30" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
@@ -50,14 +51,6 @@ layout: default
       {%- endfor -%}
     </ul>
   {%- endif -%}
-  	<p style="text-align: justify;">
-	The next meeting will take place in the first week of March. We will read "Free choice, simplification, and Innocent Inclusion" by Bar-Lev & Fox 2020. 
-	A dedicated page will be created when we determine the exact day and time.
-	<p style="text-align: justify;">
-	
-	<p style="text-align: justify;">
-	This is the doodle for the next meeting (ideally, the selected slot will be the same for all future meetings): <br> <a href="https://doodle.com/poll/b5yr4gxyrtt2i4yp?utm_source=poll&utm_medium=link"  target="_blank" rel="noopener noreferrer">https://doodle.com/poll/b5yr4gxyrtt2i4yp?utm_source=poll&utm_medium=link</a>
-	
-	<p style="text-align: justify;">
+
 
 </div>

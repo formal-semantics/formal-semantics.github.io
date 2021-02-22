@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Goldstein 2019, "Free choice and homogeneity."
+title:  "February 16th: Goldstein 2019" 
 date:   2021-02-16 16:00:00 +0100
 categories: past
 ---

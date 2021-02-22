@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "March 1st: Bar-Lev & Fox 2020" 
+date:   2021-03-01 15:00:00 +0100
+categories: meetings
+---
+We read _Free choice, simplification, and Innocent Inclusion_  by Bar-Lev & Fox. Below you can find the original abstract from the paper. 
+
+<b> PAPER:</b> Bar-Lev, M. E., & Fox, D. (2020). Free choice, simplification, and innocent inclusion. *Natural Language Semantics*, 1-49.
+<a href="https://doi.org/10.1007/s11050-020-09162-y"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1007/s11050-020-09162-y </a>
+
+<b> WHEN:</b>  Monday 1 March 2021, 15:00 - 16:30 (Amsterdam time)
+
+<b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/84684467805"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/84684467805 </a>
+
+<b> PDF:</b>  <a href="{{ site.url }}/download/Bar-Lev-Fox2020.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/Bar-Lev-Fox2020.pdf</a>
+
+<b> DISCUSSION NOTES:</b> to be added at the end of the meeting 
+
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+We propose a modification of the exhaustivity operator from Fox 2007
+that on top of negating all the Innocently Excludable alternatives affirms all the ‘Innocently Includable’ ones. The main result of supplementing the notion of Innocent
+Exclusion with that of Innocent Inclusion is that it allows the exhaustivity operator to identify cells in the partition induced by the set of alternatives (assign a truth
+value to every alternative) whenever possible. We argue for this property of ‘cell identification’ based on the simplification of disjunctive antecedents and the effects on
+free choice that arise as the result of the introduction of universal quantifiers. We
+further argue for our proposal based on the interaction of only with free choice disjunction.
+</p>
+
+
+</blockquote>
+
+
