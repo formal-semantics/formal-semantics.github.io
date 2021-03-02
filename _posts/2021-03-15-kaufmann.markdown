@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "March 15th: Kaufmann 2016" 
-date:   2021-03-01 15:00:00 +0100
+date:   2021-03-15 15:00:00 +0100
 categories: meetings
 ---
 We read _Free choice is a form of dependence_  by Magdalena Kaufmann. Below you can find the original abstract from the paper. 
