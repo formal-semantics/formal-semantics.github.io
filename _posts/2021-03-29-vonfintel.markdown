@@ -23,14 +23,14 @@ We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below yo
 <blockquote>
 <p style="text-align: justify;">
 In “Must …stay …strong!” (von Fintel and Gillies 2010), we set out to slay a dragon, or
-rather what we called The Mantra: that epistemic *must* has a modal force weaker than
+rather what we called The Mantra: that epistemic must has a modal force weaker than
 expected from standard modal logic, that it doesn’t entail its prejacent, and that the best
-explanation for the evidential feel of _must_ is a pragmatic explanation. We argued that
-all three sub-mantras are wrong and offered an explanation according to which *must* is
+explanation for the evidential feel of must is a pragmatic explanation. We argued that
+all three sub-mantras are wrong and offered an explanation according to which must is
 strong, entailing, and the felt indirectness is the product of an evidential presupposition
 carried by epistemic modals. Mantras being what they are, it is no surprise that each
 of the sub-mantras have been given new defenses. Here we offer them new problems
-and update our picture, concluding that *must* is (still) strong.
+and update our picture, concluding that must is (still) strong.
 </p>
 
 
