@@ -2,7 +2,7 @@
 layout: post
 title:  "March 15th: Kaufmann 2016" 
 date:   2021-03-15 15:00:00 +0100
-categories: meetings
+categories: past
 ---
 We read _Free choice is a form of dependence_  by Magdalena Kaufmann. Below you can find the original abstract from the paper. 
 
@@ -15,7 +15,7 @@ We read _Free choice is a form of dependence_  by Magdalena Kaufmann. Below you 
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/kaufmann2016.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/kaufmann2016.pdf</a>
 
-<b> DISCUSSION NOTES:</b> to be added at the end of the meeting 
+<b> DISCUSSION NOTES:</b> <a href="{{ site.url }}/download/kaumann_notes.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/kaumann_notes.pdf</a>
 
 
 <b> ABSTRACT: </b>
