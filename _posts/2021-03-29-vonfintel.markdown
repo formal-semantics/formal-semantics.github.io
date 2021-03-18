@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "March 29th: von Fintel & Gillies 2021" 
-date:   2021-03-15 15:00:00 +0100
+date:   2021-03-29 15:00:00 +0100
 categories: meetings
 ---
 We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below you can find the original abstract from the paper. 
@@ -9,7 +9,7 @@ We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below yo
 <b> PAPER:</b> von Fintel & Gillies (2021). Still going strong. Nat Lang Semantics (2021).
 <a href="https://doi.org/10.1007/s11050-020-09171-x"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1007/s11050-020-09171-x </a>
 
-<b> WHEN:</b>  Monday 15 March 2021, 15:00 - 16:30 (Amsterdam time)
+<b> WHEN:</b>  Monday 29 March 2021, 15:00 - 16:30 (Amsterdam time)
 
 <b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/87258902766"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/87258902766 </a>
 
