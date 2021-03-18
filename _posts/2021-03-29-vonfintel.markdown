@@ -6,8 +6,8 @@ categories: meetings
 ---
 We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below you can find the original abstract from the paper. 
 
-<b> PAPER:</b> Kaufmann (2016). Free choice is a form of dependence. *Nat Lang Semantics* 24, 247–290.
-<a href="https://doi.org/10.1007/s11050-016-9125-4"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1007/s11050-016-9125-4 </a>
+<b> PAPER:</b> von Fintel & Gillies (2021). Still going strong. Nat Lang Semantics (2021).
+<a href="https://doi.org/10.1007/s11050-020-09171-x"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1007/s11050-020-09171-x </a>
 
 <b> WHEN:</b>  Monday 15 March 2021, 15:00 - 16:30 (Amsterdam time)
 
@@ -25,7 +25,7 @@ We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below yo
 In “Must …stay …strong!” (von Fintel and Gillies 2010), we set out to slay a dragon, or
 rather what we called The Mantra: that epistemic *must* has a modal force weaker than
 expected from standard modal logic, that it doesn’t entail its prejacent, and that the best
-explanation for the evidential feel of *must* is a pragmatic explanation. We argued that
+explanation for the evidential feel of _must_ is a pragmatic explanation. We argued that
 all three sub-mantras are wrong and offered an explanation according to which *must* is
 strong, entailing, and the felt indirectness is the product of an evidential presupposition
 carried by epistemic modals. Mantras being what they are, it is no surprise that each
