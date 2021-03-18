@@ -39,4 +39,5 @@ plugins:
 header_pages: 
     - about.md
     - archive.md
+    - calendar.md
     - contact2.md
