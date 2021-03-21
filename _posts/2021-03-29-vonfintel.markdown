@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "March 29th: von Fintel & Gillies 2021" 
-date:   2021-03-29 15:00:00 +0100
+date:   2021-03-29 15:00:00 +0200
 categories: meetings
 ---
 We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below you can find the original abstract from the paper. 
