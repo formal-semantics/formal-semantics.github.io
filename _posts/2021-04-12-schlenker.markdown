@@ -6,14 +6,14 @@ categories: meetings
 ---
 
 <p style="text-align: justify;">
-We read _What is Super Semantics?_  by Philippe Schlenker. Below you can find the original abstract from the paper. Below you can find the original abstract from the paper. 
+We read *What is Super Semantics?*  by Philippe Schlenker. Below you can find the original abstract from the paper. Below you can find the original abstract from the paper. 
 The length of the paper is quite substantial. 
 The idea is that everyone should read sec. 1 and sec. 2. 
 And then, if you want, you might decide to focus on a particular section which interests you 
 (sec. 3: animal languages; sec. 4: pictorial semantics; sec. 5: music and dance semantics).   
 </p>
 
-<b> READING:</b> Schlenker, Philippe. "What is super semantics?." *Philosophical Perspectives* 32.1 (2018): 365-453..
+<b> READING:</b> Schlenker, Philippe. "What is super semantics?." *Philosophical Perspectives* 32.1 (2018): 365-453.
 <a href="https://doi.org/10.1111/phpe.12122"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1111/phpe.12122 </a>
 
 <b> WHEN:</b>  Monday 12 April 2021, 15:00 - 16:30 (Amsterdam time)
