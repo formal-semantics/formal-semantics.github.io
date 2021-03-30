@@ -2,7 +2,7 @@
 layout: post
 title:  "March 29th: von Fintel & Gillies 2021" 
 date:   2021-03-29 15:00:00 +0200
-categories: meetings
+categories: past
 ---
 We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below you can find the original abstract from the paper. 
 
@@ -15,7 +15,7 @@ We read _Still going strong_  by Kai von Fintel and Anthony S. Gillies. Below yo
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/Fintel-Gillies2021.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/Fintel-Gillies2021.pdf</a>
 
-<b> DISCUSSION NOTES:</b> to be added at the end of the meeting 
+<b> DISCUSSION NOTES:</b> <a href="{{ site.url }}/download/Fintel-Gillies2021_notes.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/Fintel-Gillies2021_notes.pdf</a>
 
 
 <b> ABSTRACT: </b>
