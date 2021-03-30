@@ -6,7 +6,7 @@ categories: meetings
 ---
 
 <p style="text-align: justify;">
-We read *What is Super Semantics?*  by Philippe Schlenker. Below you can find the original abstract from the paper. Below you can find the original abstract from the paper. 
+We read 'What is Super Semantics?'  by Philippe Schlenker. Below you can find the original abstract from the paper. Below you can find the original abstract from the paper. 
 The length of the paper is quite substantial. 
 The idea is that everyone should read sec. 1 and sec. 2. 
 And then, if you want, you might decide to focus on a particular section which interests you 
