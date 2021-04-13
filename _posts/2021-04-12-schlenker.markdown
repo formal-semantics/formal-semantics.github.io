@@ -22,7 +22,7 @@ And then, if you want, you might decide to focus on a particular section which i
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/schlenker2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/schlenker2018.pdf</a>
 
-<b> DISCUSSION NOTES:</b> a href="{{ site.url }}/download/notes_schlenker2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/notes_schlenker2018.pdf</a>
+<b> DISCUSSION NOTES:</b> <a href="{{ site.url }}/download/notes_schlenker2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/notes_schlenker2018.pdf</a>
 
 <b> ABSTRACT: </b>
 

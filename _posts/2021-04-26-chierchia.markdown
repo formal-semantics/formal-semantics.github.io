@@ -6,7 +6,7 @@ categories: meetings
 ---
 
 <p style="text-align: justify;">
-We read 'On	Being	Trivial:	Grammar	vs.	Logic'  by Gennaro Chierchia. Below you can find the original abstract from the paper. Below you can find the original abstract from the paper. 
+We read 'On	Being	Trivial:	Grammar	vs.	Logic'  by Gennaro Chierchia. Below you can find the original abstract from the paper.
 
 </p>
 
