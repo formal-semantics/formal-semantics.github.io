@@ -2,11 +2,11 @@
 layout: post
 title:  "April 12th: Schlenker 2018" 
 date:   2021-04-12 15:00:00 +0200
-categories: meetings
+categories: past
 ---
 
 <p style="text-align: justify;">
-We read 'What is Super Semantics?'  by Philippe Schlenker. Below you can find the original abstract from the paper. Below you can find the original abstract from the paper. 
+We read 'What is Super Semantics?'  by Philippe Schlenker. Below you can find the original abstract from the paper. 
 The length of the paper is quite substantial. 
 The idea is that everyone should read sec. 1 and sec. 2. 
 And then, if you want, you might decide to focus on a particular section which interests you 
@@ -22,7 +22,7 @@ And then, if you want, you might decide to focus on a particular section which i
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/schlenker2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/schlenker2018.pdf</a>
 
-<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+<b> DISCUSSION NOTES:</b> a href="{{ site.url }}/download/notes_schlenker2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/notes_schlenker2018.pdf</a>
 
 <b> ABSTRACT: </b>
 
