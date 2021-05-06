@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "May 31st: Coppock 2018" 
+date:   2021-04-26 15:00:00 +0200
+categories: meetings
+---
+
+<p style="text-align: justify;">
+We read 'Outlook-based semantics'  by Elizabeth Coppock. Below you can find the original abstract from the paper.
+
+</p>
+
+<b> READING:</b> Coppock, Gennaro. "Outlook-based semantics" (2018).
+<a href="https://doi.org/10.1007/s10988-017-9222-y"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1007/s10988-017-9222-y </a>
+
+<b> WHEN:</b>  Monday 31 May 2021, 15:00 - 16:30 (Amsterdam time)
+
+<b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/87859202298"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/87859202298</a>
+
+<b> PDF:</b>  <a href="{{ site.url }}/download/coppock2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/coppock2018.pdf</a>
+
+<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+This paper presents and advocates an approach to the semantics of opinion
+statements, including matters of personal taste and moral claims. In this framework,
+‘outlook-based semantics’, the circumstances of evaluation are not composed of a
+possible world and a judge (as in ‘world-judge relativism’); rather, outlooks replace
+possible worlds in the role of circumstance of evaluation. Outlooks are refinements
+of worlds that settle not only matters of fact but also matters of opinion. Several
+virtues of the framework and advantages over existing implementations of worldjudge relativism are demonstrated in this paper. First, world-judge relativism does not
+actually explain the ‘disagreement’ of ‘faultless disagreement’, while a straightforward explanation suggests itself in outlook-based semantics. Second, outlook-based
+semantics provides an account of subjective attitude verbs that can capture lack
+of opinionatedness. Third, outlook-based semantics unproblematically explains the
+connection-building role of aesthetic discourse and the group-relevance of discretionary assertions, while capturing the same effects in world-judge relativism obviates
+the purpose of the judge parameter. Finally, because the proposed circumstances of
+evaluation (outlooks) are entirely analogous to possible worlds, the framework is easy
+to use and extend
+</p>
+
+
+</blockquote>
