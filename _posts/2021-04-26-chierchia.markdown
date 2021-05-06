@@ -2,7 +2,7 @@
 layout: post
 title:  "April 26th: Chierchia 2019" 
 date:   2021-04-26 15:00:00 +0200
-categories: meetings
+categories: past
 ---
 
 <p style="text-align: justify;">
@@ -19,7 +19,7 @@ We read 'On	Being	Trivial:	Grammar	vs.	Logic'  by Gennaro Chierchia. Below you c
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/chierchia2019.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/chierchia2019.pdf</a>
 
-<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+<b> DISCUSSION NOTES:</b> 
 
 <b> ABSTRACT: </b>
 
