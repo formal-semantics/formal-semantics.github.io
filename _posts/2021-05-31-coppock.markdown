@@ -10,7 +10,7 @@ We read 'Outlook-based semantics'  by Elizabeth Coppock. Below you can find the 
 
 </p>
 
-<b> READING:</b> Coppock, Gennaro. "Outlook-based semantics" (2018).
+<b> READING:</b> Coppock, Elizabeth. "Outlook-based semantics" (2018).
 <a href="https://doi.org/10.1007/s10988-017-9222-y"  target="_blank" rel="noopener noreferrer"> https://doi.org/10.1007/s10988-017-9222-y </a>
 
 <b> WHEN:</b>  Monday 31 May 2021, 15:00 - 16:30 (Amsterdam time)
