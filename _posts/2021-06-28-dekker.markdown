@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "June 28th: Dekker 2021" 
+date:   2021-04-26 15:00:00 +0200
+categories: meetings
+---
+
+<p style="text-align: justify;">
+ We will read a recent paper by our Paul Dekker. You can find the paper in the attachments of the invitation email.
+
+</p>
+
+<b> READING:</b> Paul Dekker. "Propositions and Propositions" (2021).
+
+<b> WHEN:</b>  Monday 28 June 2021, 15:00 - 16:30 (Amsterdam time)
+
+<b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/85693528066"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/85693528066</a>
+
+<b> PDF:</b>  see attached paper in the invitation email
+
+<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+Declarative sentences can be used to state or stage two types of
+propositions. The distinction between the two helps in clarifying
+so-called subjective discourse. It also urges a novel conception of
+what a truly dynamic semantics might have to look like.
+</p>
+
+
+</blockquote>

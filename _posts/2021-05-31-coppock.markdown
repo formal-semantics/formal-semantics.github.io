@@ -19,7 +19,7 @@ We read 'Outlook-based semantics'  by Elizabeth Coppock. Below you can find the 
 
 <b> PDF:</b>  <a href="{{ site.url }}/download/coppock2018.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/coppock2018.pdf</a>
 
-<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+<b> DISCUSSION NOTES:</b>
 
 <b> ABSTRACT: </b>
 

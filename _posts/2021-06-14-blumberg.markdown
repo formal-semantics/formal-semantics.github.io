@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "June 14th: Blumberg & Goldstein 2021" 
+date:   2021-04-26 15:00:00 +0200
+categories: meetings
+---
+
+<p style="text-align: justify;">
+ We will read Blumberg & Goldstein 2021, as a preparation for their DIP talk. You can find the paper in the attachments of the invitation email.
+
+</p>
+
+<b> READING:</b> Blumberg & Goldstein. "A Semantic Theory of Redundancy" (2021).
+
+<b> WHEN:</b>  Monday 14 June 2021, 15:00 - 16:30 (Amsterdam time)
+
+<b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/82951481534"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/82951481534</a>
+
+<b> PDF:</b>  see attached paper in the invitation email
+
+<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+This paper develops a semantic theory of redundancy by positing a
+redundancy operator R that can be inserted locally and optionally into
+logical form. Rp says that p is true and that p is not redundant in its
+local context, i.e. p is true somewhere but not everywhere in its local
+context. This operator explains a variety of phenomena, including
+diversity constraints, ignorance inferences, and free choice.
+</p>
+
+
+</blockquote>
