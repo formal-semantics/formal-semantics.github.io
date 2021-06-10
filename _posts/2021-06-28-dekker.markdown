@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "June 28th: Dekker 2021" 
-date:   2021-04-26 15:00:00 +0200
+date:   2021-04-26 16:30:00 +0200
 categories: meetings
 ---
 
@@ -12,7 +12,7 @@ categories: meetings
 
 <b> READING:</b> Paul Dekker. "Propositions and Propositions" (2021).
 
-<b> WHEN:</b>  Monday 28 June 2021, 15:00 - 16:30 (Amsterdam time)
+<b> WHEN:</b>  Monday 28 June 2021, 16:30 - 18:00 (Amsterdam time)
 
 <b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/85693528066"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/85693528066</a>
 
