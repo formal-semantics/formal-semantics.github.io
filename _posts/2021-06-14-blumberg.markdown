@@ -2,7 +2,7 @@
 layout: post
 title:  "June 14th: Blumberg & Goldstein 2021" 
 date:   2021-04-26 15:00:00 +0200
-categories: meetings
+categories: past
 ---
 
 <p style="text-align: justify;">
@@ -18,7 +18,7 @@ categories: meetings
 
 <b> PDF:</b>  see attached paper in the invitation email
 
-<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+<b> DISCUSSION NOTES:</b> 
 
 <b> ABSTRACT: </b>
 

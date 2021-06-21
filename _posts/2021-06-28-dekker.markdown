@@ -2,7 +2,7 @@
 layout: post
 title:  "June 28th: Dekker 2021" 
 date:   2021-04-26 16:30:00 +0200
-categories: hidden
+categories: meetings
 ---
 
 <p style="text-align: justify;">
@@ -24,10 +24,10 @@ categories: hidden
 
 <blockquote>
 <p style="text-align: justify;">
-Declarative sentences can be used to state or stage two types of
-propositions. The distinction between the two helps in clarifying
-so-called subjective discourse. It also urges a novel conception of
-what a truly dynamic semantics might have to look like.
+This paper focuses on some non-indicative uses of indicative sentences. Declarative uses are argued to resist an analysis that is based on the idea of an
+underlying proposition, as it is traditionally construed in linguistics and philosophy. It is argued that a certain type of evaluative discourse is also of such
+a non-propositional type. The mere acknowledgment of this fact helps clarifying the kind faultless disagreements that philosopher and linguists have
+been struggling with.
 </p>
 
 
