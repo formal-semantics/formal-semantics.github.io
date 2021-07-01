@@ -18,7 +18,7 @@ categories: past
 
 <b> PDF:</b>  see attached paper in the invitation email
 
-<b> DISCUSSION NOTES:</b> 
+<b> DISCUSSION NOTES:</b>  <a href="{{ site.url }}/download/dekker_2021_notes.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/dekker_2021_notes.pdf</a>
 
 <b> ABSTRACT: </b>
 
