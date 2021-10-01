@@ -1,21 +1,16 @@
 ---
 layout: default
----
-
-<div class="archive">
-
-  {{ content }}
-	<p style="text-align: justify;">
-	Here you can find our previous meetings. 
-	</p>
-	
-
-
+---  
+  
+  
+  
+<div class="archive_prev"> 
+  
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2020-2021)" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-		  {% if post.categories contains "past2122"%}
+		  {% if post.categories contains "past"%}
 			  <li>
 				<h3>
 				  <a class="post-link" href="{{ post.url | relative_url }}">
@@ -32,6 +27,5 @@ layout: default
 
   {%- endif -%}
   
-   <h2><a href="/archive_prev">Archive Previous Years</a></h2>
-
+  
 </div>
