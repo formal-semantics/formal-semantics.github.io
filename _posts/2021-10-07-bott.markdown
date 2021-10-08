@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "October 12th: Bott et al. 2019" 
+date:   2021-10-12 16:00:00 +0200
+categories: meetings
+---
+
+<p style="text-align: justify;">
+ We read 'Empty-Set Effects in Quantifier Interpretation' by Bott et al. Below you can find the original abstract from the paper.
+
+</p>
+
+<b> READING:</b> Bott et al. "Empty-Set Effects in Quantifier Interpretation" (2019).
+
+<b> WHEN:</b>  Monday 28 June 2021, 16:00 - 17:00 (Amsterdam time)
+
+<b> WHERE:</b> hybrid: F1.15 (ILLC building) + zoom (see zoom link below)
+
+<b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/87905565086"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/87905565086</a>
+
+<b> PDF:</b>  <a href="{{ site.url }}/download/bott2019.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/bott2019.pdf</a>
+
+<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+This paper proposes a novel, cognitively motivated theory of natural language quantification and presents experimental evidence for it. 
+Taking into account recent findings from number cognition the theory readily explains (1) that the restrictor argument of natural language 
+quantifiers universally has a domain-relativizing function and (2) that monotone decreasing quantifiers are often more difficult to process 
+than increasing quantifiers. In the proposed theory, quantifiers that do not have the empty set as a witness set are simpler to evaluate than 
+those that do (what we call empty-set quantifiers). This explains enhanced difficulty of monotone decreasing quantifiers because they are 
+always empty-set quantifiers. Furthermore, quantificational complexity is predicted to be extraordinarily high if such an empty-set quantifier 
+has to be evaluated in a situation in which its scope is empty (what we call empty-set situations). These predictions were tested in three 
+experiments investigating the online comprehension and the verification of quantified sentences. The first experiment established empty-set effects,
+ i.e., enhanced difficulty during the online interpretation and the evaluation of empty-set quantifiers relative to non-empty-set quantifiers, particularly
+ during the evaluation of empty-set situations. The second experiment supports our claim that empty-set effects have to be distinguished from monotonicity 
+ effects. Empty-set effects were observed for the non-monotone Boolean combination of quantifiers none or three dots relative to one or three dots. 
+ The third experiment shows that the proposed theory of quantificational complexity is not limited to simply quantified sentences but can account for 
+ doubly quantified sentences, too. It was manipulated whether the first and/or the second quantifier were empty-set quantifiers. The experiment shows 
+ that the difficulty of empty-set quantifiers adds up in a cumulative fashion – a finding only expected under a ‘recursive’ version of the proposed theory.
+</p>
+
+
+</blockquote>
