@@ -36,7 +36,7 @@ layout: default
       {%- for post in site.posts -%}
 	  {% if post.categories contains "meetings"%}
       <li>
-	    {%- assign date_format = site.minima.date_format | default: "%A %-d %B %Y, %H:%M - 18:00" -%}
+	    {%- assign date_format = site.minima.date_format | default: "%A %-d %B %Y, %H:%M - 17:00" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
