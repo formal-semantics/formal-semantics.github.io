@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "October 19th: Bott et al. 2019" 
+date:   2021-10-19 16:00:00 +0200
+categories: meetings
+---
+
+<p style="text-align: justify;">
+ We read 'Absence perception and the philosophy of zero' by Neil Barton. Below you can find the original abstract from the paper.
+
+</p>
+
+<b> READING:</b> Barton. "Absence perception and the philosophy of zero" (2020).
+
+<b> WHEN:</b>  Tuesday 2 November 2021, 16:00 - 17:00 (Amsterdam time)
+
+<b> WHERE:</b> hybrid: OTM 143 - Room 2.12  + zoom (see zoom link below)
+
+<b> ZOOM LINK:</b> <a href="https://uva-live.zoom.us/j/81262034573"  target="_blank" rel="noopener noreferrer">https://uva-live.zoom.us/j/81262034573</a>
+
+<b> PDF:</b>  <a href="{{ site.url }}/download/barton2020.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/barton2020.pdf</a>
+
+<b> DISCUSSION NOTES:</b> to be added at the end of the meeting. 
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+Zero provides a challenge for philosophers of mathematics with realist inclinations. 
+On the one hand it is a bona fide cardinal number, yet on the other it is linked to ideas of nothingness and non-being. 
+This paper provides an analysis of the epistemology and metaphysics of zero. 
+We develop several constraints and then argue that a satisfactory account of zero can be obtained by integrating (1) an account of numbers as properties of collections, (2) work on the philosophy of absences, and (3) recent work in numerical cognition and ontogenetic studies.
+</p>
+
+
+</blockquote>
