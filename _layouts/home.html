@@ -20,7 +20,7 @@ layout: default
 	
 	
 	<p style="text-align: justify;">
-	We meet every two Tuesdays from 16.00 until 17:00. 
+	We usually meet every two Tuesdays from 16.00 until 17:00. 
 	If you want to suggest a particular paper or work that might be worth reading, just send an email to the organizer (m.degano@uva.nl).
 	</p>
 	
@@ -36,7 +36,7 @@ layout: default
       {%- for post in site.posts -%}
 	  {% if post.categories contains "meetings"%}
       <li>
-	    {%- assign date_format = site.minima.date_format | default: "%A %-d %B %Y, %H:%M - 17:00" -%}
+	    {%- assign date_format = site.minima.date_format | default: "%A %-d %B %Y, %H:%M - 16:00" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">

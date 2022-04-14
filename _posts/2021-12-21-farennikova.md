@@ -2,7 +2,7 @@
 layout: post
 title:  "December 21st: Farennikova 2021" 
 date:   2021-12-21 16:00:00 +0100
-categories: meetings
+categories: past2122
 ---
 
 <p style="text-align: justify;">

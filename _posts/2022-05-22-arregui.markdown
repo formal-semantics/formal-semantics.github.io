@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "April 22nd: Arregui 2021" 
+date:   2022-04-22 15:00:00 +0200
+categories: meeting
+---
+
+<p style="text-align: justify;">
+We will read ‘Anyone might but everyone won’t’ by Arregui (2021), a recent work on quantification and epistemic modality using conceptual covers.</p>
+
+<b> READING:</b> 
+
+<b> WHEN:</b>  Friday 22 April 2022, 15:00 - 16:00 (Amsterdam time)
+
+<b> LOCATION:</b> ILLC Seminar Room - F1.15
+
+<b> PDF:</b>  <a href="{{ site.url }}/download/arregui2021.pdf"  target="_blank" rel="noopener noreferrer">{{ site.url }}/download/arregui2021.pdf</a>
+
+
+
+<b> ABSTRACT: </b>
+
+<blockquote>
+<p style="text-align: justify;">
+This paper investigates the interaction between quantifiers and epistemic
+modals, focusing on the contrast between every and any. It builds on observations
+made in von Fintel & Iatridou (2003), who noted that quantifiers seem unable to take
+wide scope across an epistemic modal. The proposal at the heart of the paper is that
+modes of epistemic access to domains of quantification play a role in accounting for
+apparent restrictions on scope. The paper takes the characterization of conceptual
+covers in Aloni (2001) as a starting point to argue that in the context of epistemic
+modals, constraints on epistemic access to the domain of quantification can give rise
+to scope illusions.
+
+</blockquote>
