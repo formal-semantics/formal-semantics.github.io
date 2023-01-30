@@ -7,7 +7,7 @@ layout: default
 <div class="archive_prev"> 
   
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2020-2021)" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2020-2021)"}}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
 		  {% if post.categories contains "past"%}
@@ -29,7 +29,7 @@ layout: default
   
   
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2021-2022)" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2021-2022)"}}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
 		  {% if post.categories contains "past2122"%}
