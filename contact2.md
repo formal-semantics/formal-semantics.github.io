@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-If you want to join the reading group or you have a suggestion, just send an email to m.degano@uva.nl!
+The organizer of the reading group was Marco Degano (m.degano@uva.nl). If the previous address is inactive, you can contact Maria Aloni at m.d.aloni@uva.nl
