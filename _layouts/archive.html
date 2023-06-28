@@ -4,15 +4,10 @@ layout: default
 
 <div class="archive">
 
-  {{ content }}
-	<p style="text-align: justify;">
-	Here you can find our previous meetings. 
-	</p>
-	
 
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2022-2023)"}}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
 		  {% if post.categories contains "past2223"%}
@@ -30,8 +25,50 @@ layout: default
       {%- endfor -%}
     </ul>
 
+  {%- endif -%}  
+  
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2021-2022)"}}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+		  {% if post.categories contains "past2122"%}
+			  <li>
+				<h3>
+				  <a class="post-link" href="{{ post.url | relative_url }}">
+					{{ post.title | escape }}
+				  </a>
+				</h3>
+				{%- if site.show_excerpts -%}
+				  {{ post.excerpt }}
+				{%- endif -%}
+			  </li>
+		  {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}  
+  
+  
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Previous Meetings (2020-2021)"}}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+		  {% if post.categories contains "past"%}
+			  <li>
+				<h3>
+				  <a class="post-link" href="{{ post.url | relative_url }}">
+					{{ post.title | escape }}
+				  </a>
+				</h3>
+				{%- if site.show_excerpts -%}
+				  {{ post.excerpt }}
+				{%- endif -%}
+			  </li>
+		  {%- endif -%}
+      {%- endfor -%}
+    </ul>
+
   {%- endif -%}
   
-   <h2><a href="/archive_prev">Archive Previous Years</a></h2>
-
+  
 </div>
